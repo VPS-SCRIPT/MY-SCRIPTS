@@ -16,7 +16,7 @@ JUE VPS SCRIPT သည် VPS Server သုံးစွဲသူများအ�
  4. **ZIVPN PANEL SCRIPT** (ZiVPN Web Admin Panel)
 ## 🔐 Admin Access
 Admin Panel သို့ ဝင်ရောက်ရန် Password သတ်မှတ်ထားပါသည်။
- * **Admin Password:** juevpnth@gmail.com
+ * **Admin Password:** egvpn@gmail.com
 ## 👨‍💻 Author & Copyright
  * **Script Owner:** JueHtet
  * **License:** Free to Use (Not For Sell)
